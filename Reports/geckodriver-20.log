@@ -1,0 +1,28 @@
+1717473715164	geckodriver	INFO	Listening on 127.0.0.1:61658
+1717473718242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofilerwKCh6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717473719244	Marionette	INFO	Marionette enabled
+1717473719357	Marionette	INFO	Listening on port 61668
+WebDriver BiDi listening on ws://127.0.0.1:61659
+Read port: 61668
+1717473719663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61659/devtools/browser/4d85bdf4-c39a-4984-9f0e-50763d88040d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 906: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:47
+
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 32: TypeError: a is undefined
+1717473741075	Marionette	INFO	Stopped listening on port 61668
+JavaScript warning: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 2: Script terminated by timeout at:
+ce@https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3:2:1070
+updateTime@https://tastewp.com/intro/script.js?ver=3.9.2:77:6
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

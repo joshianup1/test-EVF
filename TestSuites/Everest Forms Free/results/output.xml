@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.12.3 on win32)" generated="2024-05-31T11:52:31.911475" rpa="false" schemaversion="5">
+<suite id="s1" name="Enable Log" source="C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\TestSuites\Everest Forms Free\enable_log.robot">
+<test id="s1-t1" name="Validating the working of enable log" line="14">
+<kw name="Login to Wordpress" owner="common_keyword" type="SETUP">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-05-31T11:52:37.227617" level="INFO">Opening browser 'firefox' to base url 'https://photographthrone.s1-tastewp.com/wp-admin/wp-admin'.</msg>
+<arg>${url}/wp-admin</arg>
+<arg>${browser}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-05-31T11:52:37.211880" elapsed="19.495254"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2024-05-31T11:52:56.707134" elapsed="0.035951"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-05-31T11:52:56.743085" level="INFO">Typing text 'anup' into text field 'id:user_login'.</msg>
+<msg time="2024-05-31T11:52:57.149630" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-4.png"&gt;&lt;img src="selenium-screenshot-4.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2024-05-31T11:52:57.153649" level="FAIL">Element with locator 'id:user_login' not found.</msg>
+<arg>${username_id}</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="FAIL" start="2024-05-31T11:52:56.743085" elapsed="0.757374">Element with locator 'id:user_login' not found.</status>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<arg>${password_id}</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="NOT RUN" start="2024-05-31T11:52:57.500459" elapsed="0.003979"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<arg>${submit_id}</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="NOT RUN" start="2024-05-31T11:52:57.504438" elapsed="0.000000"/>
+</kw>
+<arg>${wp_username}</arg>
+<arg>${wp_password}</arg>
+<status status="FAIL" start="2024-05-31T11:52:37.211880" elapsed="20.292558">Element with locator 'id:user_login' not found.</status>
+</kw>
+<kw name="Close All Browsers" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="PASS" start="2024-05-31T11:52:57.504438" elapsed="9.941412"/>
+</kw>
+<status status="FAIL" start="2024-05-31T11:52:37.211880" elapsed="30.233970">Setup failed:
+Element with locator 'id:user_login' not found.</status>
+</test>
+<test id="s1-t2" name="Validating the working of disable log" line="32">
+<kw name="Login to Wordpress" owner="common_keyword" type="SETUP">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-05-31T11:53:07.445850" level="INFO">Opening browser 'firefox' to base url 'https://photographthrone.s1-tastewp.com/wp-admin/wp-admin'.</msg>
+<arg>${url}/wp-admin</arg>
+<arg>${browser}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-05-31T11:53:07.445850" elapsed="19.047170"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2024-05-31T11:53:26.494016" elapsed="0.031398"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-05-31T11:53:26.526412" level="INFO">Typing text 'anup' into text field 'id:user_login'.</msg>
+<msg time="2024-05-31T11:53:26.850262" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-5.png"&gt;&lt;img src="selenium-screenshot-5.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2024-05-31T11:53:26.850262" level="FAIL">Element with locator 'id:user_login' not found.</msg>
+<arg>${username_id}</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="FAIL" start="2024-05-31T11:53:26.526412" elapsed="0.323850">Element with locator 'id:user_login' not found.</status>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<arg>${password_id}</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="NOT RUN" start="2024-05-31T11:53:26.850262" elapsed="0.000000"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<arg>${submit_id}</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="NOT RUN" start="2024-05-31T11:53:26.850262" elapsed="0.000000"/>
+</kw>
+<arg>${wp_username}</arg>
+<arg>${wp_password}</arg>
+<status status="FAIL" start="2024-05-31T11:53:07.445850" elapsed="19.404412">Element with locator 'id:user_login' not found.</status>
+</kw>
+<kw name="Close All Browsers" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="PASS" start="2024-05-31T11:53:26.888494" elapsed="10.031873"/>
+</kw>
+<status status="FAIL" start="2024-05-31T11:53:07.445850" elapsed="29.474517">Setup failed:
+Element with locator 'id:user_login' not found.</status>
+</test>
+<kw name="Stop Recording Suite" owner="AutoRecorder">
+<msg time="2024-05-31T11:53:36.967231" level="INFO" html="true">&lt;a href="recording_7.webm"&gt;&lt;video width="800px" autoplay&gt;&lt;source src="recording_7.webm" type="video/webm"&gt;&lt;/video&gt;&lt;/a&gt;</msg>
+<arg>Enable Log</arg>
+<doc>There is no need to execute this keyword manually.</doc>
+<status status="PASS" start="2024-05-31T11:53:36.920367" elapsed="0.046864"/>
+</kw>
+<status status="FAIL" start="2024-05-31T11:52:31.911475" elapsed="65.008892"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="2" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="2" skip="0" id="s1" name="Enable Log">Enable Log</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2024-05-31T11:52:34.949464" level="ERROR">Error in file 'C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\Resources\common_keyword.robot' on line 4: Importing library 'FakerLibrary' failed: ModuleNotFoundError: No module named 'pkg_resources'
+Traceback (most recent call last):
+  File "C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages\FakerLibrary\__init__.py", line 1, in &lt;module&gt;
+    import pkg_resources
+PYTHONPATH:
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Scripts\robot.exe
+  C:\Users\s\AppData\Local\Programs\Python\Python312\python312.zip
+  C:\Users\s\AppData\Local\Programs\Python\Python312\DLLs
+  C:\Users\s\AppData\Local\Programs\Python\Python312\Lib
+  C:\Users\s\AppData\Local\Programs\Python\Python312
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages</msg>
+<msg time="2024-05-31T11:52:34.987324" level="ERROR">Error in file 'C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\Resources\fields_keyword.robot' on line 4: Importing library 'FakerLibrary' failed: ModuleNotFoundError: No module named 'pkg_resources'
+Traceback (most recent call last):
+  File "C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages\FakerLibrary\__init__.py", line 1, in &lt;module&gt;
+    import pkg_resources
+PYTHONPATH:
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Scripts\robot.exe
+  C:\Users\s\AppData\Local\Programs\Python\Python312\python312.zip
+  C:\Users\s\AppData\Local\Programs\Python\Python312\DLLs
+  C:\Users\s\AppData\Local\Programs\Python\Python312\Lib
+  C:\Users\s\AppData\Local\Programs\Python\Python312
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages</msg>
+<msg time="2024-05-31T11:52:35.071540" level="ERROR">Error in file 'C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\Resources\individual_form_settings_general_keyword.robot' on line 4: Importing library 'FakerLibrary' failed: ModuleNotFoundError: No module named 'pkg_resources'
+Traceback (most recent call last):
+  File "C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages\FakerLibrary\__init__.py", line 1, in &lt;module&gt;
+    import pkg_resources
+PYTHONPATH:
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Scripts\robot.exe
+  C:\Users\s\AppData\Local\Programs\Python\Python312\python312.zip
+  C:\Users\s\AppData\Local\Programs\Python\Python312\DLLs
+  C:\Users\s\AppData\Local\Programs\Python\Python312\Lib
+  C:\Users\s\AppData\Local\Programs\Python\Python312
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages</msg>
+<msg time="2024-05-31T11:52:35.087712" level="ERROR">Error in file 'C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\TestSuites\Everest Forms Free\enable_log.robot' on line 9: Importing library 'FakerLibrary' failed: ModuleNotFoundError: No module named 'pkg_resources'
+Traceback (most recent call last):
+  File "C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages\FakerLibrary\__init__.py", line 1, in &lt;module&gt;
+    import pkg_resources
+PYTHONPATH:
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Scripts\robot.exe
+  C:\Users\s\AppData\Local\Programs\Python\Python312\python312.zip
+  C:\Users\s\AppData\Local\Programs\Python\Python312\DLLs
+  C:\Users\s\AppData\Local\Programs\Python\Python312\Lib
+  C:\Users\s\AppData\Local\Programs\Python\Python312
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv
+  C:\Users\s\Desktop\EVF-AUtomation\EVF-Automation-master\.venv\Lib\site-packages</msg>
+</errors>
+</robot>

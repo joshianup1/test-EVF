@@ -1,0 +1,22 @@
+1717135689875	geckodriver	INFO	Listening on 127.0.0.1:50318
+1717135693306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofileM8NiqH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717135694722	Marionette	INFO	Marionette enabled
+1717135694914	Marionette	INFO	Listening on port 50333
+WebDriver BiDi listening on ws://127.0.0.1:50319
+Read port: 50333
+1717135695686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50319/devtools/browser/eee49209-85ec-4c88-83f4-8195509a226d
+1717135706895	Marionette	INFO	Stopped listening on port 50333
+JavaScript warning: https://sellcodes.com/quick-checkout/sellcodes-checkout.js, line 560: Script terminated by timeout at:
+@https://sellcodes.com/quick-checkout/sellcodes-checkout.js:560:98
+__webpack_require__@https://sellcodes.com/quick-checkout/sellcodes-checkout.js:2:89
+@https://sellcodes.com/quick-checkout/sellcodes-checkout.js:3:672
+@https://sellcodes.com/quick-checkout/sellcodes-checkout.js:4:1
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 534: Script terminated by timeout at:
+T</w</O.W.onmessage@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:534:409
+
+Dynamically enable window occlusion 1

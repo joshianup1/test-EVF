@@ -1,0 +1,45 @@
+1717130135884	geckodriver	INFO	Listening on 127.0.0.1:49468
+1717130138914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofilept0Myg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717130139488	Marionette	INFO	Marionette enabled
+1717130139619	Marionette	INFO	Listening on port 49476
+Read port: 49476
+WebDriver BiDi listening on ws://127.0.0.1:49469
+1717130139799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49469/devtools/browser/5a99bdd9-2e81-40f6-a23d-f1005788c8c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://photographthrone.s1-tastewp.com."
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://photographthrone.s1-tastewp.com."
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js, line 451: Script terminated by timeout at:
+vca@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:451:17
+g.k.VM@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8137:96
+g.k.Nk@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8136:25
+g.k.BQ@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8288:58
+Qo.prototype.G1@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8294:93
+qH.prototype.V2@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:9396:42
+g.k.invoke@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:9389:64
+YOa@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:4174:47
+g.aPa/a.c1a@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:4179:277
+g.bPa@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:4182:168
+g.k.JL@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:13069:261
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:12952:107
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:11023:62
+yT/a.state.B[b]@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:5016:53
+Hx/<@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:1873:106
+Tx@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:1909:46
+@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:1917:137
+fl/<@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:906:63
+
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks,heartbeat,moxiejs,plupload,wp-codemi&load%5Bchunk_1%5D=rror&ver=6.5.3, line 39: TypeError: a is undefined
+1717130164284	Marionette	INFO	Stopped listening on port 49476
+JavaScript warning: https://photographthrone.s1-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks,heartbeat,moxiejs,plupload,wp-codemi&load%5Bchunk_1%5D=rror&ver=6.5.3, line 2: Script terminated by timeout at:
+ce@https://photographthrone.s1-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks,heartbeat,moxiejs,plupload,wp-codemi&load%5Bchunk_1%5D=rror&ver=6.5.3:2:1070
+updateTime@https://tastewp.com/intro/script.js?ver=3.9.2:77:6
+
+Dynamically enable window occlusion 1

@@ -1,0 +1,41 @@
+1717492801214	geckodriver	INFO	Listening on 127.0.0.1:62049
+1717492804286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofilegoLzN8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717492804754	Marionette	INFO	Marionette enabled
+1717492804869	Marionette	INFO	Listening on port 62059
+WebDriver BiDi listening on ws://127.0.0.1:62050
+Read port: 62059
+1717492805172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62050/devtools/browser/a76160b1-ec35-4acb-9df2-078516c8d9ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js, line 2919: Script terminated by timeout at:
+zAa/<@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:2919:122
+zAa@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:2919:91
+sH.prototype.TT@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:9400:36
+g.k.isInitialized@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:9391:42
+g.bPa/a.c1a@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:4182:94
+g.cPa@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:4185:168
+g.k.JL@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:13076:261
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:12959:107
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:11030:62
+AT/a.state.B[b]@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:5020:53
+Mx/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1878:106
+Yx@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1914:46
+@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1922:137
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:63
+
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 32: TypeError: a is undefined
+1717492834839	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717492839424	Marionette	INFO	Stopped listening on port 62059
+JavaScript warning: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 2: Script terminated by timeout at:
+ce@https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3:2:1070
+updateTime@https://tastewp.com/intro/script.js?ver=3.9.2:77:6
+
+Dynamically enable window occlusion 1

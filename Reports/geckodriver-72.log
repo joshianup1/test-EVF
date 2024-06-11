@@ -1,0 +1,60 @@
+1717489826250	geckodriver	INFO	Listening on 127.0.0.1:59295
+1717489829324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofileAyF8GC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717489829983	Marionette	INFO	Marionette enabled
+1717489830126	Marionette	INFO	Listening on port 59305
+WebDriver BiDi listening on ws://127.0.0.1:59296
+Read port: 59305
+1717489830505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59296/devtools/browser/5f15e424-e26e-4d92-82a8-cf428930370b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 1922: Script terminated by timeout at:
+@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1922:52
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:63
+
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 32: TypeError: a is undefined
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+1717489860351	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1717489881826	Marionette	INFO	Stopped listening on port 59305
+JavaScript warning: https://tastewp.com/intro/script.js?ver=3.9.2, line 49: Script terminated by timeout at:
+updateTime@https://tastewp.com/intro/script.js?ver=3.9.2:49:25
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/search-telemetry getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

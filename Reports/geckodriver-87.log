@@ -1,0 +1,30 @@
+1717492575965	geckodriver	INFO	Listening on 127.0.0.1:61857
+1717492579051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofileouZrF2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717492579508	Marionette	INFO	Marionette enabled
+1717492579630	Marionette	INFO	Listening on port 61870
+WebDriver BiDi listening on ws://127.0.0.1:61858
+Read port: 61870
+1717492579960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61858/devtools/browser/60369f69-446d-404a-82e9-025341dcf243
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 906: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:47
+
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 32: TypeError: a is undefined
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+1717492610606	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1717492632277	Marionette	INFO	Stopped listening on port 61870
+JavaScript warning: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 22: Script terminated by timeout at:
+e@https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3:22:8679
+
+Dynamically enable window occlusion 1

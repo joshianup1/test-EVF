@@ -1,0 +1,32 @@
+1717488623577	geckodriver	INFO	Listening on 127.0.0.1:57985
+1717488626660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofilePCRr2j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717488627604	Marionette	INFO	Marionette enabled
+1717488627707	Marionette	INFO	Listening on port 57995
+WebDriver BiDi listening on ws://127.0.0.1:57986
+Read port: 57995
+1717488628766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57986/devtools/browser/483269cc-921d-4f41-8124-1e8522fee32d
+console.error: BackupService: "Failed to measure for resource: miscellaneous" (new NotFoundError("Could not stat `C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofilePCRr2j\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-journal': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 906: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:47
+
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 32: TypeError: a is undefined
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+1717488657696	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717488672377	Marionette	INFO	Stopped listening on port 57995
+JavaScript warning: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 2: Script terminated by timeout at:
+dt@https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3:2:57008
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

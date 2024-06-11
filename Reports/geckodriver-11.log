@@ -1,0 +1,24 @@
+1717472282939	geckodriver	INFO	Listening on 127.0.0.1:60572
+1717472286031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofilewwPn74"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717472286521	Marionette	INFO	Marionette enabled
+1717472286632	Marionette	INFO	Listening on port 60580
+WebDriver BiDi listening on ws://127.0.0.1:60573
+Read port: 60580
+1717472286941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60573/devtools/browser/4bb8b2e3-cf64-4b44-9cd8-4cabe7be4da3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tightfistedrock.s2-tastewp.com."
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js, line 8663: Script terminated by timeout at:
+g.k.A5@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:8663:16
+
+JavaScript warning: https://www.google.com/js/th/FHXt-ZpPKLM2XuMZDyrrKVvy6GX-cD2y8UJZdRpFU_w.js line 2 > eval line 7173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://tightfistedrock.s2-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,moxiejs,plupload,wp-codemirror&ver=6.5.3, line 32: TypeError: a is undefined
+1717472308181	Marionette	INFO	Stopped listening on port 60580
+Dynamically enable window occlusion 1

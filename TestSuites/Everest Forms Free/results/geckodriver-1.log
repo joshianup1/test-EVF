@@ -1,0 +1,58 @@
+1717128429473	geckodriver	INFO	Listening on 127.0.0.1:65037
+1717128433091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\s\\AppData\\Local\\Temp\\rust_mozprofileEQmtic"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717128434822	Marionette	INFO	Marionette enabled
+1717128435114	Marionette	INFO	Listening on port 65060
+WebDriver BiDi listening on ws://127.0.0.1:65038
+Read port: 65060
+1717128435793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65038/devtools/browser/648c9bea-d546-433b-8032-d955c4d9efad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://photographthrone.s1-tastewp.com."
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://photographthrone.s1-tastewp.com."
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript warning: https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+QQ@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval:1:46
+Gj@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval:1:217
+l@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval:1:92
+lb@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval:1:157
+mP@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval:1:45
+@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:49820
+g3@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:33042
+VL@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:12339
+v@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:9897
+l@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval line 2934 > eval line 1 > eval line 1 > eval:1:327
+C.Lt@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:47407
+K@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:6146
+@https://www.google.com/js/th/qPVc89Xtqb-imYcu3PoxhWFQIHn6RU05s_zP8PhWsV0.js line 2 > eval:2934:51190
+Qo.prototype.G1/c<@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8294:135
+g.k.qo@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8290:35
+Qo.prototype.G1@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:8294:112
+qH.prototype.V2@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:9396:42
+g.k.invoke@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:9389:64
+YOa@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:4174:47
+g.aPa/a.c1a@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:4179:277
+g.bPa@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:4182:168
+g.k.JL@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:13069:261
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:12952:107
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:11023:62
+yT/a.state.B[b]@https://www.youtube.com/s/player/79e6d03a/player_ias.vflset/en_US/base.js:5016:53
+Hx/<@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:1873:106
+Tx@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:1909:46
+@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:1917:137
+fl/<@https://www.youtube.com/s/player/79e6d03a/www-embed-player.vflset/www-embed-player.js:906:63
+
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks,heartbeat,moxiejs,plupload,wp-codemi&load%5Bchunk_1%5D=rror&ver=6.5.3, line 39: TypeError: a is undefined
+JavaScript error: https://photographthrone.s1-tastewp.com/wp-content/plugins/everest-forms/assets/js/admin/printThis.min.min.js?ver=3.0.0.1, line 1: SyntaxError: expected expression, got '<'
+console.error: ({})
+1717128464865	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717128482672	Marionette	INFO	Stopped listening on port 65060
+JavaScript warning: https://photographthrone.s1-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks,heartbeat,moxiejs,plupload,wp-codemi&load%5Bchunk_1%5D=rror&ver=6.5.3, line 29: Script terminated by timeout at:
+e@https://photographthrone.s1-tastewp.com/wp-admin/load-scripts.php?c=0&load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks,heartbeat,moxiejs,plupload,wp-codemi&load%5Bchunk_1%5D=rror&ver=6.5.3:29:8679
+
+Dynamically enable window occlusion 1

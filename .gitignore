@@ -1,3 +1,6 @@
 log/
 Reports/
 *.log
+__pycache__/
+pycache/
+.idea
